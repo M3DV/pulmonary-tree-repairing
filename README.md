@@ -84,7 +84,7 @@ The command line parameters have the following meanings:
 
 - [x] Our Pytorch implementation of keypoint detection will be released soon.
 
-### Citation
+## Citation
 If you find this project useful in your research, please cite the following papers:
 ```
 Ziqiao Weng, Jiancheng Yang, Dongnan Liu, Weidong Cai. "Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset". The 26th Intl. Conf. on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023.
