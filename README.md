@@ -80,11 +80,12 @@ The command line parameters have the following meanings:
 * radius_min, radius_max: Only edges with a radius within this range will be selected as a disconnected branch.
 * points_threshold: Only edges (centerlines) with a point number greater than this threshold will be selected as a disconnected branch.
 
-## To do
+# License and Citation
 
-- [x] Our Pytorch implementation of keypoint detection will be released soon.
+The code is under [Apache-2.0 License](./LICENSE).
 
-## Citation
+The Pulmonary Tree Repairing (PTR) dataset is licensed under *Creative Commons Attribution 4.0 International* ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
+
 If you find this project useful in your research, please cite the following papers:
 ```
 Ziqiao Weng, Jiancheng Yang, Dongnan Liu, Weidong Cai. "Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset". The 26th Intl. Conf. on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023.
@@ -99,3 +100,7 @@ or using the bibtex:
     organization={Springer}
 }
 ```
+
+## TODO
+
+- [x] Our Pytorch implementation of keypoint detection will be released soon.
