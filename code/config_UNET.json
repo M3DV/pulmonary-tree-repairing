@@ -1,0 +1,12 @@
+{
+    "root": "/your_dataset_path/airway/synthesized_data/",
+    "checkpoint_path": "./checkpoint",
+    "log_path": "./log",
+    "model": "UNET",
+    "val_interval": "500",
+    "batch_size": "16",
+    "bar_len": "64",
+    "sub_size": "80",
+    "step": "5000",
+    "optimizer": "adam"
+}
